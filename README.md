@@ -1,9 +1,11 @@
 # OOP
-
+<!--
 #### Prerequisites 
 
  * [Concepts of method declaration]()
  * [Concepts of message passing]()
+
+ -->
 
 #### OOP concepts 
 
